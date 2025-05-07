@@ -1,0 +1,4 @@
+Commands for Terminal
+
+javac TokenRing.java
+java TokenRing

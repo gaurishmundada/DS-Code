@@ -1,0 +1,12 @@
+1st terminal
+
+javac Service.java Server.java Client.java
+rmiregistry
+
+
+2nd terminal
+java Server
+
+3rd Terminal
+java Client
+
