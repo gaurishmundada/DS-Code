@@ -1,5 +1,0 @@
-ass 5 
-steps
-
-javac TokenRing.java
-java TokenRing
