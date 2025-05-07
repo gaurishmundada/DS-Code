@@ -1,4 +1,0 @@
-Create a folder Token_ring then add tokenring.py file in it
-
-To run:
-$ python tokenring.py
